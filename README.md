@@ -13,7 +13,7 @@ git clone https://github.com/blogcacanid/reactjs-bizpage.git
 ## Lalu masuk kedirektori project:
 cd reactjs-bizpage
 
-## Selanjutnya jalankan perintah berikut secara terurut:
+## Selanjutnya jalankan perintah berikut:
 - composer install
 
 ## Testing
